@@ -1,0 +1,21 @@
+* Fix some text issues here & there, for example some visible inputs and etc.
+
+* Crash when CPU attempts to hit a player's spread (index out of bounds) [maybe remake the check of players hand check?]
+
+* Seems CPU would rather hit the player than spread first, as well as holding spreading in general. (Perhaps make CPU always spread first then hit? and fix spread check for CPU)
+
+* Create a visually nice console tonk with unicode and more.
+
+* Show YOUR HAND sorted by suit && number order
+
+* Error with card total when drawing, or picking up sometimes?
+
+* Last card on deck stays under certain cirumstances
+
+* Error with deck that allowed me to draw a card that i had already spreaded with (aka dupe cards!)
+
+* FINISH HIT OPTION!
+
+* FINISH WINNING CASES!
+
+* FINISH IN GENERAL!
